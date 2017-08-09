@@ -2,9 +2,9 @@
 
 # [Shiny Application link.](https://aniruddhachakraborty.shinyapps.io/us_states_analysis/)
 
-# [Link to the Rpubs Reproducible Pitch presentation on the U.S. States Analysis App.](http://rpubs.com/AniruddhaChakraborty/298179)
+# [Link to the Rpubs Reproducible Pitch presentation on the U.S. States Analysis App.](http://rpubs.com/AniruddhaChakraborty/298184)
 
-# [Link to the ui.R and server.R files.](https://github.com/AniruddhaChakraborty/Developing-Data-Products-Course-Project/US_States_Analysis)
+# [Link to the ui.R and server.R files.](https://github.com/AniruddhaChakraborty/Developing-Data-Products-Course-Project/tree/master/US_States_Analysis)
 
 ## Following instructions have been given for the assignment -
 
