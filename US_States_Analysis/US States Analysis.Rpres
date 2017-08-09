@@ -30,7 +30,7 @@ Resources
 1. The **Shiny Application on The U.S. States Analysis** along with the Documentation is hosted on :
 https://aniruddhachakraborty.shinyapps.io/us_states_analysis/
 
-2. The **ui.R & server.R** source code files along with this presentation are placed in the Github Repository : https://github.com/AniruddhaChakraborty/Developing-Data-Products-Course-Project/US_States_Analysis.
+2. The **ui.R & server.R** source code files along with this presentation are placed in the Github Repository : https://github.com/AniruddhaChakraborty/Developing-Data-Products-Course-Project/tree/master/US_States_Analysis.
 
 <h2>Embedded R code - A runnable example</h2>
 <small>
